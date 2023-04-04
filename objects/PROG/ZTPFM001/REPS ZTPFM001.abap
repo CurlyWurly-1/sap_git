@@ -7,3 +7,4 @@ REPORT ZTPFM001.
 
 write: 'hello'.
 write: 'hello again'.
+write: 'hello again, again'.
