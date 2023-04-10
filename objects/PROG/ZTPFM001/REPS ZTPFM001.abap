@@ -5,6 +5,10 @@
 *&---------------------------------------------------------------------*
 REPORT ZTPFM001.
 
-write: 'hello'.
-write: 'hello again'.
-write: 'hello again, again'.
+TABLES usr05.
+SELECT * FROM usr05.
+ENDSELECT.
+WRITE: / 'Hello'.
+
+start-of-selection.
+WRITE: / 'start'.
