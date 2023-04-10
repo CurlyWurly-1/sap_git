@@ -11,3 +11,4 @@ WRITE: / 'Hello'.
 
 start-of-selection.
 WRITE: / 'start'.
+WRITE: / 'another one'.
