@@ -10,4 +10,4 @@ ENDSELECT.
 WRITE: / 'Hello'.
 
 start-of-selection.
-WRITE: / 'Wed 12th April 2023'.
+WRITE: / 'Fri 14th April 2023'.
